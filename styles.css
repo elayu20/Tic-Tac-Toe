@@ -1,0 +1,13 @@
+.main-container {
+    box-sizing: border-box;
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.box {
+    box-sizing: border-box;
+    border: 2px solid black;
+}
